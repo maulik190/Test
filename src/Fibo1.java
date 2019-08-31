@@ -26,7 +26,7 @@ public class Fibo1 {
 			}
 
 			System.out.println("Series Is: " + next);
-//Added comment Line
+//New Comment
 		}
 	}
 
